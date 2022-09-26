@@ -1,5 +1,7 @@
 import React from "react";
 
+//update  each transaction
+
 function Transaction({date, description, category, amount}) {
   
   return (
